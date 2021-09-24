@@ -1,0 +1,17 @@
+.App {
+  min-height: 100vh;
+  background-color: #282c34;
+}
+
+.App-logo {
+  height: 375px;
+  cursor: pointer;
+}
+
+.Logo-holder {
+  display:inline-block
+}
+
+.Animate-button {
+ z-index: 10;
+}
